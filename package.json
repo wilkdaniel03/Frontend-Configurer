@@ -1,0 +1,26 @@
+{
+  "name": "frontend-configurer",
+  "version": "1.0.0",
+  "description": "Frontend-Configurer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://wilkdaniel03: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@github.com/wilkdaniel03/Frontend-Configurer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wilkdaniel03/Frontend-Configurer/issues"
+  },
+  "homepage": "https://github.com/wilkdaniel03/Frontend-Configurer#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.17.10",
+    "@babel/core": "^7.18.2",
+    "@babel/plugin-transform-arrow-functions": "^7.17.12",
+    "@babel/preset-env": "^7.18.2",
+    "@babel/preset-react": "^7.17.12"
+  }
+}
